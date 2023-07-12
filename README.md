@@ -28,6 +28,7 @@ Things you may want to cover:
 - os ubuntu 2204
 - ruby(rvm) = 3.0.6
 - Rails = 7.0.6
+- gem = 3.2.33
 
 ## 主な機能
 - 質問の作成、一覧表示、編集
